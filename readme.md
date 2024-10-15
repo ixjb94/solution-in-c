@@ -8,7 +8,7 @@
 **Result**
 Find the missing part
 
-**Example - 1**
+**Example: 1**    
 **In**
 ```
 4
@@ -20,7 +20,7 @@ Find the missing part
 4
 ```
 
-**Example - 2**
+**Example: 2**    
 **In**
 ```
 6
@@ -41,7 +41,7 @@ Find the missing part
 **Result**
 - Remove Numbers, Symbols (No Regex)
 
-**Example**
+**Example**    
 **In**
 ```
 I, The Great Cyrus, 98am go1234ing to sa47ve al?l of y3ou!
@@ -61,7 +61,7 @@ I The Great Cyrus am going to save all of you
 **Result**
 - ASCII To Text
 
-**Example**
+**Example**    
 **In**
 ```
 11
@@ -86,7 +86,7 @@ Hello World
 - First -1  = Switch
 - Second -1 = End
 
-**Example**
+**Example**    
 **In**
 ```
 5
